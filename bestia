@@ -459,12 +459,12 @@ if name == "Auto Punch" then
          end
 
         if name == "Auto Fuerza" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/componentes/refs/heads/main/auto%20fuerza", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/componentes/refs/heads/main/auto%20fuerza%20normal", true))()
              if func then func() end
          end
 
         if name == "Ocultar Particulas" then
-             local func = loadstring(game:HttpGet("https://https://raw.githubusercontent.com/darekpruebas/particulas-/refs/heads/main/particulas%20ob", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/componentes/refs/heads/main/hide%20frame", true))()
              if func then func() end
          end
 
