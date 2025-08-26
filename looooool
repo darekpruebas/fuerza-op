@@ -459,7 +459,7 @@ if name == "Auto Punch" then
          end
 
         if name == "Auto Fuerza" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-normal/refs/heads/main/Fuerza%20normal", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P8/Auto-fuerza-normal", true))()
              if func then func() end
          end
 
