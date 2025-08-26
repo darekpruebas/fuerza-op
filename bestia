@@ -387,12 +387,12 @@ if name == "Tp king" then
          end
 
        if name == "Auto Fuerza Op" then
-             local func = loadstring(game:HttpGet("https://https://raw.githubusercontent.com/darekpruebas/componentes/refs/heads/main/auto%20fuerza%20normal", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P6/auto%20fuerza%20op", true))()
              if func then func() end
          end
 
         if name == "Hide Frame" then
-            local func =loadstring(game:HttpGet("https://https://raw.githubusercontent.com/darekpruebas/componentes/refs/heads/main/hide%20frame", true))()
+            local func =loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P7/hide%20frame", true))()
             if func then func() end
         end
 
@@ -423,7 +423,7 @@ if name == "Auto Kill All" then
             end
 
 if name == "Auto Punch" then
-                _G.lockPosition = isActive
+                _G.lockPosition = isActive 
                 local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-auto-punch-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))
                 if func then func() end
             end
@@ -459,12 +459,12 @@ if name == "Auto Punch" then
          end
 
         if name == "Auto Fuerza" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/componentes/refs/heads/main/auto%20fuerza%20normal", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P8/Auto-fuerza-normal", true))()
              if func then func() end
          end
 
         if name == "Ocultar Particulas" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/componentes/refs/heads/main/hide%20frame", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P9/Particulas", true))()
              if func then func() end
          end
 
