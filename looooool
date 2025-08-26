@@ -1,4 +1,3 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))()
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -372,65 +371,65 @@ if name == "Tp king" then
             end
 
           if name == "Protein egg" then
-              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-AUTO-COMER-EGG-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))()
+              local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Protein-egg/refs/heads/main/Egg", true))()
               if func then func() end
           end
 
           if name == "Kills Muerto" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-kILL-MUERTO-OMEGADEZZ-OBS/refs/heads/main/OBFUSCATE", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Script-combinando-kill/refs/heads/main/Script%20para%20no%20comer%20eggs", true))()
              if func then func() end
          end
 
        
          if name == "Golpe Sin Animacion" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-Auo-rebirth-fast-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Fast-Rebith-/refs/heads/main/Fast%20rebith", true))()
              if func then func() end
          end
 
        if name == "Auto Fuerza Op" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P6/auto%20fuerza%20op", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-OP-2.0/refs/heads/main/Auto%20fuerza", true))()
              if func then func() end
          end
 
         if name == "Hide Frame" then
-            local func =loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P7/hide%20frame", true))()
+            local func =loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Hide-frame/refs/heads/main/Particulas", true))()
             if func then func() end
         end
 
          if name == "Roca de 10m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-roca-de-10m-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-10m/refs/heads/main/Roca%2010m", true))()
              if func then func() end
          end
 
          if name == "Roca de 5k" then
-             local func = loadstring(game:HttpGet("", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-5k/refs/heads/main/5k", true))()
              if func then func() end
          end
 
         if name == "Roca de 5m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-roca-de-5m-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-5m/refs/heads/main/5m", true))()
              if func then func() end
          end
 
         if name == "Roca de 1m" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-roca-de-1m-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-1m/refs/heads/main/Roca%20de%201m", true))()
              if func then func() end
          end
 
 if name == "Auto Kill All" then
                 _G.lockPosition = isActive
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-auto-KILL-ALL-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Auto-kill-all-/refs/heads/main/Auto%20kill%20para%20todos", true))
                 if func then func() end
             end
 
 if name == "Auto Punch" then
-                _G.lockPosition = isActive 
-                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-auto-punch-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))
+                _G.lockPosition = isActive
+                local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Auto-punch-remote/refs/heads/main/Auto%20punch", true))
                 if func then func() end
             end
 
         if name == "Roca de 750k" then
-             local func = loadstring(game:HttpGet("", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-750k/refs/heads/main/Roca%20de%20750k", true))()
              if func then func() end
          end
 
@@ -440,7 +439,7 @@ if name == "Auto Punch" then
          end
 
         if name == "Roca de 150k" then
-             local func = loadstring(game:HttpGet("", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-150k/refs/heads/main/Roca%20de%20150k", true))()
              if func then func() end
          end
 
@@ -455,17 +454,17 @@ if name == "Auto Punch" then
          end
 
        if name == "Roca de 0" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-roca-de-tiny-OMEGADEZZ-OB/refs/heads/main/OBFUSCATE", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-de-0-/refs/heads/main/Roca%20de%200%20dura", true))()
              if func then func() end
          end
 
         if name == "Auto Fuerza" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P8/Auto-fuerza-normal", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-normal/refs/heads/main/Fuerza%20normal", true))()
              if func then func() end
          end
 
         if name == "Ocultar Particulas" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/darekpruebas/OMEGADEZZ-COMPONENTES/refs/heads/main/P9/Particulas", true))()
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Particulas/refs/heads/main/Particulas", true))()
              if func then func() end
          end
 
@@ -710,7 +709,7 @@ if name == "Espectear" then
 end
 
           if name == "Anti AFK" then
-             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/honnydezzop/HONNYDEZZ-antiAFK-hub-OMEGADEZZ-OB/refs/heads/main/OBFUSCASTE", true))
+             local func = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Anti-AFK-by-ALEJANDRO-/refs/heads/main/Anti%20AFK", true))
              if func then func() end
          end
 end)
